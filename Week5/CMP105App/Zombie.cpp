@@ -4,7 +4,7 @@ Zombie::Zombie()
 {
 	walk.addFrame(sf::IntRect(0, 0, 55, 108));
 	walk.addFrame(sf::IntRect(55, 0, 55, 108));
-	walk.addFrame(sf::IntRect(110, 0, 55, 108));
+	walk.addFrame(sf::IntRect(111, 0, 55, 108));
 	walk.addFrame(sf::IntRect(165, 0, 55, 108));
 	walk.addFrame(sf::IntRect(220, 0, 55, 108));
 	walk.addFrame(sf::IntRect(275, 0, 55, 108));
